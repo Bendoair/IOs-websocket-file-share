@@ -1,6 +1,6 @@
 # 🔄 Flutter WebSocket File Sharing App
 
-A cross-platform file sharing app using **WebSockets** for real-time communication between clients and servers. Built with Flutter, this app allows seamless file transmission, supporting both **web** and **desktop platforms (Windows)**.
+A cross-platform file sharing app using **WebSockets** for real-time communication between clients and servers. Built with Flutter, this app allows seamless file transmission, with **Multiplatform** support.
 
 ---
 
